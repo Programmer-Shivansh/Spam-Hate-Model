@@ -1,1 +1,1 @@
-Extension of the model
+Extension
